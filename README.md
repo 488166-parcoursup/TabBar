@@ -4,4 +4,3 @@ Dans le cadre de l'Intranet pour le cuisiniste, une solution pour naviguer sur l
 ## But de ce projet.
 - Travailler sur le responsive design d'un site.
 - Adapter des composants mobiles en technologies web, grâce à CSS et JS.
-- 
